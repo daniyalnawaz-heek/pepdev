@@ -1,0 +1,23 @@
+{
+  "name": "pepdev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dani.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniyalnawaz-heek/pepdev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniyalnawaz-heek/pepdev/issues"
+  },
+  "homepage": "https://github.com/daniyalnawaz-heek/pepdev#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
